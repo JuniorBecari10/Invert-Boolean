@@ -1,2 +1,2 @@
 # Invert-Boolean
-A Java Boolean Inverter needlessly complex.
+A Java Boolean Inverter intentionally complex.
